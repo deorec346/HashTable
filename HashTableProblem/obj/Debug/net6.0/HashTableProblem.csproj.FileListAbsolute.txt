@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\bin\Debug\net6.0\HashTableProblem.exe
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\bin\Debug\net6.0\HashTableProblem.deps.json
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\bin\Debug\net6.0\HashTableProblem.runtimeconfig.json
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\bin\Debug\net6.0\HashTableProblem.dll
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\bin\Debug\net6.0\HashTableProblem.pdb
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.dll
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\refint\HashTableProblem.dll
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.pdb
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\HashTableProblem.genruntimeconfig.cache
+C:\Users\DELL\source\repos\HashTableProblem\HashTableProblem\obj\Debug\net6.0\ref\HashTableProblem.dll
